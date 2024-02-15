@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\ThomasLeary\source\repos\FPSConsole\FPSConsole\Source.cpp(53,21): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ThomasLeary\source\repos\FPSConsole\FPSConsole\Source.cpp(56,22): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ThomasLeary\source\repos\FPSConsole\FPSConsole\Source.cpp(93,17): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  FPSConsole.vcxproj -> C:\Users\ThomasLeary\source\repos\FPSConsole\x64\Debug\FPSConsole.exe
